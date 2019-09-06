@@ -2384,13 +2384,14 @@ ul.social-icons li a{
 		margin-bottom: .8em;
 	}
 	.col-md-5.team-grid {
-		width: 100%;
-		float: none;
+		width: 35%;
+		float: left;
+		padding:0px;
 	}
 	.col-md-2.team-grid {
-		float: none;
-		width: 100%;
-		margin: 3em 0;
+		width: 30%;
+		float: left;
+		margin: 0em 0;
 	}
 	.w3l-poi {
 		top: 94.5%;
